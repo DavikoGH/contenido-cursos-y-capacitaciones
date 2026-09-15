@@ -1,0 +1,6 @@
+{
+  "name": "Clases, Cursos y Capacitaciones",
+  "description": "Directorio de clases, cursos y capacitaciones online y presenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
