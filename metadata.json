@@ -1,6 +1,6 @@
 {
-  "name": "Clases, Cursos y Capacitaciones",
-  "description": "Directorio de clases, cursos y capacitaciones online y presenciales.",
+  "name": "Contenido Cursos y Capacitaciones | Asesoría Educativa",
+  "description": "Encuentra las mejores opciones presenciales y online en programación, IA, finanzas, diseño y más. Brindamos contenido de valor y asesoría educativa.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
